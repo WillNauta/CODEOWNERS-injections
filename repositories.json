@@ -1,0 +1,241 @@
+{
+    "owner": "BancoBice",
+    "user": "rmgarciaex_bice",
+    "email": "rmgarciaex@bice.cl",
+    "repositories": [
+        {
+            "repo_name": "SISHOBAEM-config-portal-enterprise"
+        },
+        {
+            "repo_name": "SISHOBAEM-config-utilitarios"
+        },
+        {
+            "repo_name": "SISHOBAEM-fe-autoperfilamiento"
+        },
+        {
+            "repo_name": "SISHOBAEM-fe-financing-applications"
+        },
+        {
+            "repo_name": "SISHOBAEM-fe-investment-accounts"
+        },
+        {
+            "repo_name": "SISHOBAEM-fe-investment-management"
+        },
+        {
+            "repo_name": "SISHOBAEM-fe-investment-mmff-withdraw"
+        },
+        {
+            "repo_name": "SISHOBAEM-bff-autoperfilamiento"
+        },
+        {
+            "repo_name": "SISPLACOM-orq-retokeniza-tarjeta-deb"
+        },
+        {
+            "repo_name": "SISPOREMP-fe-firmar-adss-authentication"
+        },
+        {
+            "repo_name": "SISTARCRE-srv-bicemol-tarj-cred"
+        },
+        {
+            "repo_name": "SISONBUNI-fe-webpay-revti"
+        },
+        {
+            "repo_name": "SISONBUNI-ms-candidato"
+        },
+        {
+            "repo_name": "SISONBUNI-ms-cliente-desafio"
+        },
+        {
+            "repo_name": "SISONBUNI-ms-cumplimiento"
+        },
+        {
+            "repo_name": "SISONBUNI-ms-flujo-onboarding"
+        },
+        {
+            "repo_name": "SISONBUNI-ms-imagen-identidad"
+        },
+        {
+            "repo_name": "SISONBUNI-ms-usuario-fondos-mutuos"
+        },
+        {
+            "repo_name": "SISONBUNI-ms-usuario-inversion-obu"
+        },
+        {
+            "repo_name": "SISGOBICE-bff-captcha-token"
+        },
+        {
+            "repo_name": "SISGOBICE-bff-core-onboard-base"
+        },
+        {
+            "repo_name": "SISGOBICE-config-gobice"
+        },
+        {
+            "repo_name": "SISGOBICE-fe-go-bice-landing"
+        },
+        {
+            "repo_name": "SISGOBICE-ms-autenticacion-go"
+        },
+        {
+            "repo_name": "SISGOBICE-ms-consulta-sinacofi"
+        },
+        {
+            "repo_name": "SISGOBICE-ms-mora-protesto"
+        },
+        {
+            "repo_name": "SISGOBICE-srv-salesforce-datos-finacieros"
+        },
+        {
+            "repo_name": "SISGOBICE-wl-cuenta-digital-servicios"
+        },
+        {
+            "repo_name": "SISGOBICE-wl-go-bice"
+        },
+        {
+            "repo_name": "SISBICEMX-common-services-bicemx"
+        },
+        {
+            "repo_name": "SISBICEMX-fe-admin-contactos-mx"
+        },
+        {
+            "repo_name": "SISBICEMX-fe-unified-panel-mx"
+        },
+        {
+            "repo_name": "SISBICEMX-fe-panel-compra-venta-divisas-empresas"
+        },
+        {
+            "repo_name": "SISBICEMX-fe-panel-operaciones-mx-lib"
+        },
+        {
+            "repo_name": "SISFACTOR-ms-otorgamientomac"
+        },
+        {
+            "repo_name": "SISFACTOR-ms-boletin-comercial"
+        },
+        {
+            "repo_name": "SISFACTOR-ms-casas-comerciales"
+        },
+        {
+            "repo_name": "SISFACTOR-ms-clasificacion-deudor"
+        },
+        {
+            "repo_name": "SISFACTOR-ms-cursefactoring"
+        },
+        {
+            "repo_name": "SISFACTOR-srv-otorgamiento"
+        },
+        {
+            "repo_name": "SISFACTOR-srv-protestos-cheque"
+        },
+        {
+            "repo_name": "SISFACTOR-srv-provisional"
+        },
+        {
+            "repo_name": "SISHOBAPE-bff-income-update"
+        },
+        {
+            "repo_name": "SISHOBAPE-fe-bdp-login"
+        },
+        {
+            "repo_name": "SISHOBAPE-fe-botondepago-sii"
+        },
+        {
+            "repo_name": "SISHOBAPE-fe-foreign-exchange"
+        },
+        {
+            "repo_name": "SISHOBAPE-fe-income-update"
+        },
+        {
+            "repo_name": "SISHOBAPE-fe-pagotc"
+        },
+        {
+            "repo_name": "SISHOBAPE-bff-bdp-login"
+        },
+        {
+            "repo_name": "SISHOBAPE-bff-botondepago-sii"
+        },
+        {
+            "repo_name": "SISHOBAPE-fe-dap-lib"
+        },
+        {
+            "repo_name": "SISHOBAPE-acl-datamart-income-update"
+        },
+        {
+            "repo_name": "SISONBINV-back-client"
+        },
+        {
+            "repo_name": "SISONBINV-back-salesforce"
+        },
+        {
+            "repo_name": "SISONBINV-onboard-front"
+        },
+        {
+            "repo_name": "SISONBUNI-bff-onboarding-unificado"
+        },
+        {
+            "repo_name": "SISONBUNI-ms-autenticacion-biceid"
+        },
+        {
+            "repo_name": "SISONBUNI-acl-autenticacion-biceid"
+        },
+        {
+            "repo_name": "SISVISTAT-fn-datamart-trf"
+        },
+        {
+            "repo_name": "SISVISTAT-cloudfunctions_BaaS"
+        },
+        {
+            "repo_name": "SISVISTAT-fn_datamart_input"
+        },
+        {
+            "repo_name": "SISVISTAT-fn_lnd_edm_raw_edm"
+        },
+        {
+            "repo_name": "SISVISTAT-std_json_sp_pas"
+        },
+        {
+            "repo_name": "SISWEBPAY-ms-integra-webpay"
+        },
+        {
+            "repo_name": "SISWEBPAY-srv-api-btn-pago-webpay"
+        },
+        {
+            "repo_name": "DSO2-bice-connect-advisor"
+        },
+        {
+            "repo_name": "SISAUTENT-apigee-listar-desafios"
+        },
+        {
+            "repo_name": "SISAUTIVA-ws-servicios-pco"
+        },
+        {
+            "repo_name": "SISCORPAS-ms-embozar-tarj-deb"
+        },
+        {
+            "repo_name": "SISDESIGN-fe-ds-components"
+        },
+        {
+            "repo_name": "SISGDDYAR-srv-carpeta-electronica"
+        },
+        {
+            "repo_name": "SISOTPPAG-api-prueba-pstewart"
+        },
+        {
+            "repo_name": "SISOYECYD-ms-productos-curse-credito"
+        },
+        {
+            "repo_name": "SISPORUTI-ms-genera-pauta"
+        },
+        {
+            "repo_name": "SISDATWAR-raw_json_cap"
+        },
+        {
+            "repo_name": "SISDATWAR-raw_json_pilar3"
+        },
+        {
+            "repo_name": "SISHOBAEM-config-portal-base"
+        },
+        {
+            "repo_name": "SISHOBAEM-fe-enterprise-investment-account"
+        }
+    ]
+}
